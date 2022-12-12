@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:birch_log" }
+	],
+	"result": {
+		"item":"minecraft:oak_planks",
+		"count": 4
+	}
+}
