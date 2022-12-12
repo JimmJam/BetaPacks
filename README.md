@@ -5,7 +5,7 @@
     <img src="Good-Old-Items/pack.png" alt="Pack PNG" width="80" height="80">
   </a>
 
-  <h3 align="center">Beta-Like experience in modern Minecraft</h3>
+  <h3 align="center">Beta-Like Names & Recipes</h3>
 
   <p align="center">
     Beta 1.7.3-like datapack and resource pack name combo
@@ -16,8 +16,12 @@
 
 
 
-## Beta Recipes
-Beta Recipes emoves all recipes from the game, and only adds back those that were in Beta 1.7.3.
+<details open>
+  <summary align="center"><h2>Beta Recipes</h2></summary>
+    Beta Recipes emoves all recipes from the game, and only adds back those that were in Beta 1.7.3.
+</details>
 
-## Good Old Names
-Adds back a lot of old names, renaming all wood types to "wood", wood type fences to "wood", and much more.
+<details open>
+  <summary align="center"><h2>Good Old Names</h2></summary>
+    Adds back a lot of old names, renaming all wood types to "wood", wood type fences to "wood", and much more.
+</details>
