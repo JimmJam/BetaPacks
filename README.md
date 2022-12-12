@@ -25,3 +25,8 @@
   <summary align="center"><h2>Good Old Names</h2></summary>
     Adds back a lot of old names, renaming all wood types to "wood", wood type fences to "wood", and much more.
 </details>
+
+<details open>
+  <summary align="center"><h2>Only Cod</h2></summary>
+    Makes the fishing loot tables only contain Cod, or "Raw Fish", as Good Old Names corrects.
+</details>
