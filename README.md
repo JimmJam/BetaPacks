@@ -8,8 +8,8 @@
   <h3 align="center">Beta-Like Datapacks and Names</h3>
 
   <p align="center">
-    Beta 1.7.3-like datapack and resource pack name combo
-    <br />
+    Beta 1.7.3-like datapacks and names that bring back the old beta feel.
+  <p>Credit to M16 on the NT Discord for the name!</p>
     <a href="https://github.com/PoeticRainbow/golden-days"><strong>Best used with Golden Days</strong></a>
   </p>
 </div>
@@ -19,6 +19,7 @@
 <details open>
   <summary align="center"><h2>Beta Recipes</h2></summary>
     Beta Recipes emoves all recipes from the game, and only adds back those that were in Beta 1.7.3.
+  <p>Credit to https://github.com/prxvatescrxpts for writing the majority of this pack!</p>
 </details>
 
 <details open>
