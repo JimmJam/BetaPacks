@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": {
+            "translate": "Prevent sheep from dropping mutton when killed"
+        }
+    }
+}
