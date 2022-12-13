@@ -5,7 +5,7 @@
     <img src="Good-Old-Items/pack.png" alt="Pack PNG" width="150" height="150">
   </a>
 
-  <h3 align="center">Beta-Like Names & Recipes</h3>
+  <h3 align="center">Beta-Like Datapacks and Names</h3>
 
   <p align="center">
     Beta 1.7.3-like datapack and resource pack name combo
