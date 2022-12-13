@@ -36,4 +36,4 @@
 
 #
 ### Usage
-<p>Feel free to use any of these datapacks on a server or a modpack! It would be greatly appreciated if some link is made back to this page for credit, though!
+<p>Feel free to use any of these datapacks on a server or a modpack! It would be greatly appreciated if some link is made back to this page for credit, though! Special exception to Adrenix if he would find any use of these to include in Nostalgic Tweaks teehee
