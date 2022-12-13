@@ -1,4 +1,5 @@
 {
+  "block.minecraft.crafting_table": "Workbench",
   "block.minecraft.petrified_oak_slab": "Wooden Slab",
   "block.minecraft.smooth_stone_slab": "Stone Slab",
   "block.minecraft.oak_planks": "Wooden Planks",
@@ -15,7 +16,7 @@
   "block.minecraft.acacia_log": "Wood",
   "block.minecraft.dark_oak_log": "Wood",
   "block.minecraft.mangrove_log": "Wood",
-   "block.minecraft.stripped_oak_log": "Wood",
+  "block.minecraft.stripped_oak_log": "Wood",
   "block.minecraft.stripped_spruce_log": "Wood",
   "block.minecraft.stripped_birch_log": "Wood",
   "block.minecraft.stripped_jungle_log": "Wood",
