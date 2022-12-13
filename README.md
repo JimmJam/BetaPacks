@@ -23,7 +23,7 @@
 </details>
 <details closed>
   <summary><h2>Good Old Names</h2></summary>
-    Adds back and replaces lot of old names, renaming all wood types to "wood", wood type fences to "wood", and much more. Golden Days fixes almost all the rest of the names that aren't included in this pack.
+    Adds back and replaces lot of old names, renaming all wood types to "wood", wood type fences to "wood", and much more. Golden Days fixes almost all the rest of the names that aren't included in this pack. Not all names are directly from 1.7.3 - crafting table is "Workbench", as it was through b1.0-b1.2.
 </details>
 <details closed>
   <summary><h2>Only Cod</h2></summary>
