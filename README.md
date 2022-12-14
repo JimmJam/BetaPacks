@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/JimmJam/BetaPacks/main/Good%20Old%20Items/pack.png" alt="Pack PNG" width="125" height="125">
+    <img src="https://raw.githubusercontent.com/JimmJam/BetaPacks/main/Good%20Old%20Names/pack.png" alt="Pack PNG" width="125" height="125">
   </a>
 
   <h3 align="center">Beta-Like Data and Resource Packs</h3>
