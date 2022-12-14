@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Good-Old-Items/pack.png" alt="Pack PNG" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/JimmJam/BetaPacks/main/Good%20Old%20Items/pack.png" alt="Pack PNG" width="150" height="150">
   </a>
 
   <h3 align="center">Beta-Like Datapacks and Names</h3>
@@ -36,6 +36,10 @@
 <details closed>
   <summary><h2>Old Block Drops</h2></summary>
     DATAPACK - In almost all Beta versions, there were certain drops that were different to modern versions. Currently, this datapack only changes oak stairs to drop one oak plank, cobblestone stairs to one cobblestone, and bookshelves to drop nothing (balanced by Beta Recipes, because of how cheap books were.) If you remember anything else that was different, let me know!
+</details>
+<details closed>
+  <summary><h2>Indev and Beta Doors</h2></summary>
+    RESOURCE PACKS - During Indev, the side door texture was the same as the oak plank texture. This first pack brings this look back. The second, Beta doors had a weird look to them, where the top and bottom of the side of the door was a copy of the bottom front texture of the door, rather than the side of each the top and bottom.
 </details>
 
 #
