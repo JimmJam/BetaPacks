@@ -9,7 +9,7 @@
 
   <p align="center">
     Beta 1.7.3-like datapacks and names that bring back the old beta feel.
-  <p>Credit to M16 on the NT Discord for the name!</p>
+  <p>Credit to <a href="https://github.com/prxvatescrxpts">prxvatescrxpts</a> for making Beta Recipes and inspiring this GitHub to be made, and M16 on the NT Discord for the name!</p>
     <a href="https://github.com/PoeticRainbow/golden-days"><strong>Best used with Golden Days</strong></a>
   </p>
 </div>
@@ -21,7 +21,6 @@
     <details closed>
       <summary><h2>Beta Recipes</h2></summary>
         Beta Recipes emoves all recipes from the game, and only adds back those that were in Beta 1.7.3. This in combination with the other datpacks, Nostalgic Tweaks, Fabrication and Cabbage's Retro Generator can be used to recreate an almost 1 for 1 Beta 1.7.3 experience.
-      <p>Credit to https://github.com/prxvatescrxpts for writing the majority of this pack!</p>
     </details>
     <details closed>
       <summary><h2>Only Cod</h2></summary>
