@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/JimmJam/BetaPacks/main/Good%20Old%20Items/pack.png" alt="Pack PNG" width="125" height="125">
   </a>
 
-  <h3 align="center">Beta-Like Datapacks and Names</h3>
+  <h3 align="center">Beta-Like Data and Resource Packs</h3>
     Beta 1.7.3-like datapacks and names that bring back the old beta feel. <br>
      - Credit to <a href="https://github.com/prxvatescrxpts">prxvatescrxpts</a> for making Beta Recipes! <br>
      - Thanks to M16 for inspiring the name of this GitHub page!</p>
