@@ -6,14 +6,11 @@
   </a>
 
   <h3 align="center">Beta-Like Datapacks and Names</h3>
-
-  <p align="center">
-    Beta 1.7.3-like datapacks and names that bring back the old beta feel.
-  <p>Credit to <a href="https://github.com/prxvatescrxpts">prxvatescrxpts</a> for making Beta Recipes and inspiring this GitHub to be made, and M16 on the NT Discord for the name!</p>
+    Beta 1.7.3-like datapacks and names that bring back the old beta feel. <br>
+     - Credit to <a href="https://github.com/prxvatescrxpts">prxvatescrxpts</a> for making Beta Recipes! <br>
+     - Thanks to M16 for inspiring the name of this GitHub page!</p>
     <a href="https://github.com/PoeticRainbow/golden-days"><strong>Best used with Golden Days</strong></a>
-  </p>
 </div>
-
 
 #
 <details closed>
