@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": {
+            "translate": "Change block drops to as they were in Beta 1.7.3."
+        }
+    }
+}
