@@ -2,18 +2,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/JimmJam/BetaPacks/main/Good%20Old%20Items/pack.png" alt="Pack PNG" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/JimmJam/BetaPacks/main/Good%20Old%20Items/pack.png" alt="Pack PNG" width="125" height="125">
   </a>
 
-  <h3 align="center">Beta-Like Datapacks and Names</h3>
-
-  <p align="center">
-    Beta 1.7.3-like datapacks and names that bring back the old beta feel.
-  <p>Credit to M16 on the NT Discord for the name!</p>
+  <h3 align="center">Beta-Like Data and Resource Packs</h3>
+    Beta 1.7.3-like datapacks and names that bring back the old beta feel. <br>
+     - Credit to <a href="https://github.com/prxvatescrxpts">prxvatescrxpts</a> for making Beta Recipes! <br>
+     - Thanks to M16 for inspiring the name of this GitHub page!</p>
     <a href="https://github.com/PoeticRainbow/golden-days"><strong>Best used with Golden Days</strong></a>
-  </p>
 </div>
-
 
 #
 <details closed>
@@ -21,7 +18,6 @@
     <details closed>
       <summary><h2>Beta Recipes</h2></summary>
         Beta Recipes emoves all recipes from the game, and only adds back those that were in Beta 1.7.3. This in combination with the other datpacks, Nostalgic Tweaks, Fabrication and Cabbage's Retro Generator can be used to recreate an almost 1 for 1 Beta 1.7.3 experience.
-      <p>Credit to https://github.com/prxvatescrxpts for writing the majority of this pack!</p>
     </details>
     <details closed>
       <summary><h2>Only Cod</h2></summary>
