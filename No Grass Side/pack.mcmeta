@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Removes biome colors from the sides of grass blocks."
+  }
+}
