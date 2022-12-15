@@ -44,6 +44,10 @@
       <summary><h2>Indev and Beta Doors</h2></summary>
         During Indev, the side door texture was the same as the oak plank texture. This first pack brings this look back. The second, Beta doors had a weird look to them, where the top and bottom of the side of the door was a copy of the bottom front texture of the door, rather than the side of each the top and bottom.
     </details>
+    <details closed>
+      <summary><h2>No Grass Side</h2></summary>
+        Throughout Alpha 1.2 and Beta 1.4, the grass top had humidity-specific colors, yet did not have an overlay on the side, making the grass side texture always look like the classic alpha texture. This pack reverts it to this look.
+    </details>
 </details>
 
 #
