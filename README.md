@@ -29,7 +29,7 @@
     </details>
     <details closed>
       <summary><h2>Old Block Drops</h2></summary>
-        In almost all Beta versions, there were certain drops that were different to modern versions. Currently, this datapack only changes oak stairs to drop one oak plank, cobblestone stairs to one cobblestone, and bookshelves to drop nothing (balanced by Beta Recipes, because of how cheap books were.) If you remember anything else that was different, let me know!
+        In almost all Beta versions, there were certain drops that were different to modern versions. Currently, this datapack only changes oak stairs to drop one oak plank, cobblestone stairs to one cobblestone, and bookshelves to drop nothing (balanced by Beta Recipes, because of how cheap books were.) M16 also inspired me to remove the sick and apple drops from leaves. If you remember anything else that was different, let me know!
     </details>
 </details>
 
