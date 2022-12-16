@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 10,
         "description": {
-            "translate": "Prevent sheep from dropping mutton when killed"
+            "translate": "§6Mechanic §8- §aBeta §7§o(1.7.3)\n§7Only drops wool."
         }
     }
 }

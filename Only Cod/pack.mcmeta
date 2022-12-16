@@ -1,8 +1,8 @@
 {
     "pack": {
-        "pack_format": 10,
+        "pack_format": 9,
         "description": {
-            "translate": "Only cod from Fishing"
+            "translate": "§6Mechanic §8- §aBeta §7§o(1.7.3)\n§7Only cod from fishing."
         }
     }
 }

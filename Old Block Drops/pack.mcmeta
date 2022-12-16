@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 10,
         "description": {
-            "translate": "Change block drops to as they were in Beta 1.7.3."
+            "translate": "§6Mechanic §8- §aBeta §7§o(1.7.3)\n§7Drops blocks as they once did."
         }
     }
 }
