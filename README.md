@@ -17,7 +17,7 @@
   <summary><h1>Datapacks</h2></summary>
     <details closed>
       <summary><h2>Beta Recipes</h2></summary>
-        Beta Recipes emoves all recipes from the game, and only adds back those that were in Beta 1.7.3. This in combination with the other datpacks, Nostalgic Tweaks, Fabrication and Cabbage's Retro Generator can be used to recreate an almost 1 for 1 Beta 1.7.3 experience.
+        Beta Recipes emoves all recipes from the game, and only adds back those that were in Beta 1.7.3. This in combination with the other datpacks, Nostalgic Tweaks, Fabrication and Cabbage's Retro Generator can be used to recreate an almost 1 for 1 Beta 1.7.3 experience. Almost entirely made by prxvatescrxpts.
     </details>
     <details closed>
       <summary><h2>Only Cod</h2></summary>
