@@ -123,5 +123,6 @@
   "item.minecraft.green_dye": "Cactus Green",
   "block.minecraft.spawner": "§fMonster Spawner",
   "block.minecraft.lapis_block": "Lapis Lazuli Block",
-  "item.minecraft.redstone": "Redstone"
+  "item.minecraft.redstone": "Redstone",
+  "deathScreen.title": "Game Over!"
 }
